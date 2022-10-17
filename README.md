@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript icon which is linking to website that describe what JavaScript exactly is" title="JavaScript" /></a>
 <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React JavaScript library icon which is linking to offical react website" title="React - JavaScript library"/></a>
 <a href="https://cs50.harvard.edu/x/2021/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C language icon which is linking to CS50 course from Harvard" title="C language - CS50 course from Harvard" width="40"/></a>
+<a href="https://phptherightway.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="PHP logo which is linking to phptherightway.com website" title="PHP" width="40"/></a>
 
 ## ⚡ List of cool things that went into this profile README
 - Devicon for most of the icons I used in this readme: [repository](https://github.com/devicons/devicon), [website](https://devicon.dev/)
