@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 <a href="https://phptherightway.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="PHP logo which is linking to phptherightway.com website" title="PHP" width="40"/></a>
 <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  alt="Firebase logo which is linking to firebase.google website" title="Firebase" width="40"/></a>
 <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"  alt="Vue.js logo which is linking to vuejs.org website" title="Vue.js" width="40"/></a>
--->
+
 ## ⚡ List of cool things that went into this profile README
-- Devicon for most of the icons I used in this readme: [repository](https://github.com/devicons/devicon), [website](https://devicon.dev/)
+- Devicon for most of the icons I used in this readme: [repository](https://github.com/devicons/devicon), [website](https://devicon.dev/)-->
